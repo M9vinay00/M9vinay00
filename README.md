@@ -89,7 +89,7 @@ Sports court booking platform using Java & React
 
 ## 📫 Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN_LINK
+- LinkedIn: https://www.linkedin.com/in/vinay-pal-192042296/
 - Email: vinay.work1709@gmail.com
 
 ---
